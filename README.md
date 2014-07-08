@@ -16,4 +16,4 @@ Android_3D_Demo
 <br /><h2>下载资源如下：</h2> 
 <br />**[实例应用](https://github.com/amapapi/Android_3D_Demo/raw/master/resource/AMapApiV2Demo.apk)** (apk)
 <br /> 扫一扫下载应用
-<br />![Screenshot]( https://raw.githubusercontent.com/amapapi/Android_ClusterMarker/master/Resources/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+<br />![Screenshot](https://raw.githubusercontent.com/amapapi/Android_3D_Demo/master/resource/%E4%BA%8C%E7%BB%B4%E7%A0%81.png )
