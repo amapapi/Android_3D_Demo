@@ -18,11 +18,11 @@ Android_3D_Demo
 
 ##使用方法：
 
-[使用方法](http://developer.amap.com/api/android-sdk/summary/)**
+[使用方法](http://developer.amap.com/api/android-sdk/summary/)
 
 ##下载资源如下：
 
-+[实例应用](https://github.com/amapapi/Android_3D_Demo/raw/master/resource/AMapApiV2Demo.apk)** (apk)
++[实例应用](https://github.com/amapapi/Android_3D_Demo/raw/master/resource/AMapApiV2Demo.apk) (apk)
 
 +扫一扫下载应用
 
